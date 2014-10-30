@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7A50A2ED-78A1-4ED9-80FC-3EBCA00DE6FD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Monoku</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D59161FDCBA79322F499A65AB0FE48280EE9B855</key>
+		<string>github.com:pawluczuk/monoku.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Monoku.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D59161FDCBA79322F499A65AB0FE48280EE9B855</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:pawluczuk/monoku.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D59161FDCBA79322F499A65AB0FE48280EE9B855</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D59161FDCBA79322F499A65AB0FE48280EE9B855</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Monoku</string>
+		</dict>
+	</array>
+</dict>
+</plist>
